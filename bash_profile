@@ -9,6 +9,7 @@ alias t2="tree -L 2"
 
 # down with verbosity
 alias gs="git status -sb"
+alias m="mvn clean install"
 
 # it's dockers all the way down
 alias dps="docker ps"
